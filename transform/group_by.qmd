@@ -1,0 +1,5 @@
+---
+title: "group_by()"
+---
+
+Exploring aggregating data by groups.

@@ -1,0 +1,10 @@
+---
+title: "Research"
+listing:
+  contents:
+    - "*.qmd" 
+  type: table
+  categories: true
+---
+
+

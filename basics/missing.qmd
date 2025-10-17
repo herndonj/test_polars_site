@@ -1,0 +1,5 @@
+---
+title: "Missing data"
+---
+
+We consider missing data.

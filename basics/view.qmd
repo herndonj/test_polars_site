@@ -1,0 +1,7 @@
+---
+title: "Quick views of Data"
+---
+
+Securing quick views of data
+
+{{< fa home >}} 

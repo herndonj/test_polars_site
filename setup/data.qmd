@@ -1,0 +1,12 @@
+---
+title: "Data"
+---
+
+Data details go here.
+
+Let's download the data for this class
+
+{{< downloadthis ../data/flights.csv >}}
+
+{{< downloadthis ../data/flights.xlsx >}}
+

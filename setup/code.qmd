@@ -1,0 +1,8 @@
+---
+title: "Code coventions"
+---
+
+This workshop supports learners using both:
+
+1. Jupyter notebooks
+2. Quarto

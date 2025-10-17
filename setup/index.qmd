@@ -1,0 +1,9 @@
+---
+title: "Workshop setup"
+---
+
+You need to:
+
+1. Download (or clone) the repository
+2. Note the location of the files
+2. Choose a code environment

@@ -1,0 +1,63 @@
+project:
+  type: website
+  preview:
+    port: 5555
+
+website:
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "**New Material - Spring 2026**"
+    position: below-navbar
+  title: "Intro to Polars"
+  description: "Course materials for CDVS workshop on Polars: Spring 2026"
+  cookie-consent: true
+  page-footer: "© 2025, Joel Herndon"
+  navbar:
+    right:
+      - href: https://github.com/herndonj/intro_to_polars_fall_2025
+        icon: github
+      - icon: share
+        menu: 
+          - href: https://bsky.app
+          - href: contact.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Setup" 
+        href: setup/index.qmd
+        title: "Setup"
+        contents:
+          - setup/code.qmd
+          - setup/data.qmd
+      - text: "Why Polars"
+        href: why/index.qmd
+      - section: "Intro"
+        href: basics/index.qmd
+        contents:
+          - basics/import.qmd
+          - basics/dataframes.qmd
+          - basics/view.qmd
+          - basics/descriptives.qmd
+          - basics/missing.qmd
+      - section: "Data wrangling"
+        href: transform/index.qmd
+        contents:
+          - transform/select.qmd
+          - transform/filter.qmd
+          - transform/sort.qmd
+          - transform/with_columns.qmd
+          - transform/group_by.qmd
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

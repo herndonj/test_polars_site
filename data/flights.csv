@@ -1,0 +1,7 @@
+flight,cost,distance_km,non_stop
+Raleigh Durham to Svalbard,,6209,false
+Raleigh Durham to London,1200.0,6216,true
+Raleigh Durham to Los Angeles,600.0,3595,true
+Raleigh Durham to Boston,250.0,985,true
+Raleigh Durham to Chicago,300.0,1040,false
+Raleigh Durham to New York,420.0,693,true

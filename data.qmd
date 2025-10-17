@@ -1,0 +1,8 @@
+---
+title: "Data"
+---
+
+We will be using two datasets in the class today including:
+
+- flights.csv
+- rdu_flights.parquet

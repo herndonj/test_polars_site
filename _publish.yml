@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 19621aa2-31d8-45f3-9d0c-24c34f1e8833
+      url: https://joelherndon.quarto.pub/intro-to-polars

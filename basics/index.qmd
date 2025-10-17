@@ -1,0 +1,10 @@
+---
+title: "Getting started with Polars."
+---
+
+1. ![Importing data](import.qmd)
+2. Evaluating DataFrames
+3. Exploring DataFrames
+4. Dealing with missing data
+
+{{< fa brands bluetooth >}} 

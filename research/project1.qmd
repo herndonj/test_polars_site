@@ -1,0 +1,27 @@
+---
+title: "Project 1"
+categories:
+ - pumpkins
+ - fall
+ - cdvs
+
+---
+
+
+:::{.column-page}
+![](img/pumpkin.jpg)
+:::
+
+::: {.column-screen-inset}
+![A full screen image](img/pumpkin.jpg)
+:::
+
+::: {.column-margin}
+![A margin image](img/pumpkin.jpg)
+:::
+
+::: {.column-margin}
+We know from *the first fundamental theorem of calculus* that for $x$ in $[a, b]$:
+
+$$\frac{d}{dx}\left( \int_{a}^{x} f(u)\,du\right)=f(x).$$
+:::
