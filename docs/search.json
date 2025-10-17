@@ -1,0 +1,234 @@
+[
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "We will be using two datasets in the class today including:\n\nflights.csv\nrdu_flights.parquet"
+  },
+  {
+    "objectID": "transform/filter.html",
+    "href": "transform/filter.html",
+    "title": "filter()",
+    "section": "",
+    "text": "Let’s select data by rows.",
+    "crumbs": [
+      "Data wrangling",
+      "filter()"
+    ]
+  },
+  {
+    "objectID": "transform/select.html",
+    "href": "transform/select.html",
+    "title": "select()",
+    "section": "",
+    "text": "Selecting columns in DataFrames",
+    "crumbs": [
+      "Data wrangling",
+      "select()"
+    ]
+  },
+  {
+    "objectID": "transform/group_by.html",
+    "href": "transform/group_by.html",
+    "title": "group_by()",
+    "section": "",
+    "text": "Exploring aggregating data by groups.",
+    "crumbs": [
+      "Data wrangling",
+      "group_by()"
+    ]
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "This is the workshop website for Introduction to Polars.\nDownload"
+  },
+  {
+    "objectID": "about/index.html#education",
+    "href": "about/index.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "about/index.html#experience",
+    "href": "about/index.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "setup/index.html",
+    "href": "setup/index.html",
+    "title": "Workshop setup",
+    "section": "",
+    "text": "You need to:\n\nDownload (or clone) the repository\nNote the location of the files\nChoose a code environment",
+    "crumbs": [
+      "Setup"
+    ]
+  },
+  {
+    "objectID": "why/index.html",
+    "href": "why/index.html",
+    "title": "Why Polars",
+    "section": "",
+    "text": "Here we import data",
+    "crumbs": [
+      "Why Polars"
+    ]
+  },
+  {
+    "objectID": "basics/dataframes.html",
+    "href": "basics/dataframes.html",
+    "title": "Polars DataFrames",
+    "section": "",
+    "text": "Let’s talk about Polars DataFrames",
+    "crumbs": [
+      "Intro",
+      "Polars DataFrames"
+    ]
+  },
+  {
+    "objectID": "basics/missing.html",
+    "href": "basics/missing.html",
+    "title": "Missing data",
+    "section": "",
+    "text": "We consider missing data.",
+    "crumbs": [
+      "Intro",
+      "Missing data"
+    ]
+  },
+  {
+    "objectID": "basics/import.html",
+    "href": "basics/import.html",
+    "title": "Importing data",
+    "section": "",
+    "text": "Here we import data",
+    "crumbs": [
+      "Intro",
+      "Importing data"
+    ]
+  },
+  {
+    "objectID": "research/project3.html",
+    "href": "research/project3.html",
+    "title": "Project 3",
+    "section": "",
+    "text": "project 3"
+  },
+  {
+    "objectID": "research/project2.html",
+    "href": "research/project2.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "project 2"
+  },
+  {
+    "objectID": "research/project1.html",
+    "href": "research/project1.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "A full screen image\n\n\n\n\n\n\n\n\nA margin image\n\n\n\nWe know from the first fundamental theorem of calculus that for \\(x\\) in \\([a, b]\\):\n\\[\\frac{d}{dx}\\left( \\int_{a}^{x} f(u)\\,du\\right)=f(x).\\]"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nProject 1\n\n\n \n\n\n\n\n\n\nProject 2\n\n\n \n\n\n\n\n\n\nProject 3\n\n\n \n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "basics/index.html",
+    "href": "basics/index.html",
+    "title": "Getting started with Polars.",
+    "section": "",
+    "text": "Importing data\n\n\nEvaluating DataFrames\nExploring DataFrames\nDealing with missing data",
+    "crumbs": [
+      "Intro"
+    ]
+  },
+  {
+    "objectID": "basics/descriptives.html",
+    "href": "basics/descriptives.html",
+    "title": "Descriptive Statistics",
+    "section": "",
+    "text": "Here we explore EDA",
+    "crumbs": [
+      "Intro",
+      "Descriptive Statistics"
+    ]
+  },
+  {
+    "objectID": "basics/view.html",
+    "href": "basics/view.html",
+    "title": "Quick views of Data",
+    "section": "",
+    "text": "Securing quick views of data",
+    "crumbs": [
+      "Intro",
+      "Quick views of Data"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get help!\naskdata@duke.edu"
+  },
+  {
+    "objectID": "setup/code.html",
+    "href": "setup/code.html",
+    "title": "Code coventions",
+    "section": "",
+    "text": "This workshop supports learners using both:\n\nJupyter notebooks\nQuarto",
+    "crumbs": [
+      "Setup",
+      "Code coventions"
+    ]
+  },
+  {
+    "objectID": "setup/data.html",
+    "href": "setup/data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Data details go here.\nLet’s download the data for this class\n Download \n Download",
+    "crumbs": [
+      "Setup",
+      "Data"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Intro to Polars",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "transform/sort.html",
+    "href": "transform/sort.html",
+    "title": "sort()",
+    "section": "",
+    "text": "Sorting columns in Polars",
+    "crumbs": [
+      "Data wrangling",
+      "sort()"
+    ]
+  },
+  {
+    "objectID": "transform/with_columns.html",
+    "href": "transform/with_columns.html",
+    "title": "with_columns()",
+    "section": "",
+    "text": "Adding variables in Polars.",
+    "crumbs": [
+      "Data wrangling",
+      "with_columns()"
+    ]
+  }
+]
