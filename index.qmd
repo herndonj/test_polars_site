@@ -1,8 +1,26 @@
 ---
 title: "Intro to Polars"
-subtitle: "Spring 2025"
+subtitle: "Center for Data and Visualization Sciences Workshop"
+subtitle: "Spring 2026"
 ---
 
-This is a Quarto website.
+## Overview
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+Polars provides an open source library for data manipulation that allows fast, 
+large-scale data work in multiple analytics languages.  While many people try
+Polars because of its reputation for speed and its ability to handle extremely 
+large data collections, most people are charmed by Polars expressive syntax that
+promotes clean code and focused analytics.
+
+In the words of Janssens and Nieuwdorop (2025):
+
+> "Come for the speed, stay for the API"
+
+In this workshop, we will explore:
+
+- What is polars
+- Why would I use polars
+- How can I import data
+- How can I explore my data
+- How can I transform my data
